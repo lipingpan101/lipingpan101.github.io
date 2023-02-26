@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Git Basics","permalink":"/blog/2023/02/25/git-basics"},{"title":"TDD Benefits for Beginners","permalink":"/blog/2023/02/23/TDD-benefits"},{"title":"React Hooks","permalink":"/blog/2023/02/23/react-hooks"}]}')}}]);
